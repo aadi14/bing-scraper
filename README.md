@@ -1,1 +1,3 @@
-#binf-scraper
+#bing-scraper
+#scrapes data
+
